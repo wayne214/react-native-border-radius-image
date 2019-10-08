@@ -23,7 +23,7 @@ import RoundImage from 'react-native-border-radius-image'
 render() {
     const imgUrl = itemData.logo_url ? {uri: itemData.logo_url} : Icon;
     return(
-        <BorderRadiusImage
+        <RoundImage
             source={imgUrl}
             size={40}
             style={{alignSelf: 'flex-start',
