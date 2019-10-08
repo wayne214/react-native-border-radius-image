@@ -1,0 +1,17 @@
+{
+  "name": "react-native-border-radius-image",
+  "version": "1.0.7",
+  "description": "This is a image component that can be rounded",
+  "main": "roundImage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "react-native-border-radius-image",
+    "react-native",
+    "round-image"
+  ],
+  "author": "wayne214",
+  "license": "ISC"
+}
