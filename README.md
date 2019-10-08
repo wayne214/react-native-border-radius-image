@@ -1,11 +1,11 @@
 这是一个可以设置圆角的Image组件，兼容Android和IOS,解决Android端设置圆角出现的问题
 > overlayColor: string (Android)
 
-  当图片有圆角的时候，指定一个颜色用于填充圆角处的空白。虽然一般情况下圆角处是透明的，但在某些情况下，Android 并不支持圆角透明，比如：
+> 当图片有圆角的时候，指定一个颜色用于填充圆角处的空白。虽然一般情况下圆角处是透明的，但在某些情况下，Android 并不支持圆角透明，比如：
 
-  某些 resize 模式比如'contain'
-  GIF 动画
-  常见的用法就是在不能圆角透明时，设置overlayColor和背景色一致。
+> 某些 resize 模式比如'contain'
+> GIF 动画
+> 常见的用法就是在不能圆角透明时，设置overlayColor和背景色一致。
 
 ### 安装
 ```
